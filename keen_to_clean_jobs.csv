@@ -1,0 +1,7 @@
+job_id,client_name,service_description,job_date,amount,royalty_rate
+J001,Smith Residence,Regular House Clean,2026-03-01,350.00,10
+J002,Johnson Office,Commercial Deep Clean,2026-03-05,1200.00,20
+J003,Williams Home,End of Lease Clean,2026-03-10,480.00,10
+J004,Brown Apartments,Move-In Clean,2026-03-12,620.00,20
+J005,Davis Property,Spring Clean,2026-03-18,290.00,10
+J006,Miller Business,Office Maintenance Clean,2026-03-22,950.00,20
